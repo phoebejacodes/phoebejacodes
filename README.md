@@ -1,7 +1,5 @@
 -  Hi, I’m @phoebejacodes
   
-- 🎯 I’m transitioning into the world of **Data Science** and **Machine Learning**, combining analytics with real-world impact.
-
 -  I’m interested in ... using data to solve real-world problems
 - 💞️ I’m looking to collaborate on ... Data projects that stretch me
 -  How to reach me ... phoebesranger[at] gmail [dot] com
